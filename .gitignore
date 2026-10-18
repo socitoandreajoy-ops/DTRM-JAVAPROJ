@@ -1,4 +1,4 @@
-   /target/
-   /nbproject/private/
-   derby.log
-   SchoolDB/
+SchoolDB/
+derby.log
+target/
+nbproject/private/
