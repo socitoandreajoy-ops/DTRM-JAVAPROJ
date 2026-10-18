@@ -1,0 +1,2 @@
+Save your school logo in this folder as logo.png (square or round logo, at least 300x300 pixels works best).
+It will appear on the front page, the login screen and the certificates. Delete this note if you like.
